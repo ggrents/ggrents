@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Artem Grents
 ====================================================================================================================================
 
-I am python backend developer.
+I am backend developer.
 ------------------------------
 
 I am constantly striving for growth and improvement. My passion for programming and development leads me to explore new technologies and solve interesting problems. I am sure that continuous learning is the key to success. My goal is to create high-quality software products and participate in exciting projects. My experience is growing every day, and I hope that the number of completed projects will only increase.
 
 * 🌍  I'm based in Astana
 * ✉️  You can contact me at [grents-04@mail.ru](mailto:grents-04@mail.ru)
-* 🧠  I'm learning django, flask and fastapi
+* 🧠  I'm learning django, flask and fastapi, writing code in C#
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
