@@ -8,7 +8,8 @@ I am constantly striving for growth and improvement. My passion for programming 
 
 * 🌍  I'm based in Astana
 * ✉️  You can contact me at [grents-04@mail.ru](mailto:grents-04@mail.ru)
-* 🧠  I'm learning django, flask and fastapi, writing code in C#
+* 🧠  Reinforce my .NET Core, ASP.NET skills | Interning at ERG-BTS as .NET developer
+* 🐍  Implemented several projects on different Python frameworks
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
