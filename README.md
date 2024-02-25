@@ -8,7 +8,7 @@ I am constantly striving for growth and improvement. My passion for programming 
 
 * 🌍  I'm based in Astana
 * ✉️  You can contact me at [grents-04@mail.ru](mailto:grents-04@mail.ru)
-* 🧠  Reinforce my .NET, Angular skills | Working at ERG-BTS as Full-stack developer
+* 🧠  Reinforce my .NET, Angular skills | Working at ERG-BTS as Software developer
 * 🐍  Have strong Python knowldege. Implemented several projects on different Python frameworks
 * 🤝  I'm open to collaborating on interesting projects
 
