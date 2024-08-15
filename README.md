@@ -7,9 +7,8 @@ I am software developer.
 I am constantly striving for growth and improvement. My passion for programming and development leads me to explore new technologies and solve interesting problems. I am sure that continuous learning is the key to success. My goal is to create high-quality software products and participate in exciting projects. My experience is growing every day, and I hope that the number of completed projects will only increase.
 
 * 🌍  I'm based in Astana
-* ✉️  You can contact me at [grents-04@mail.ru](mailto:grents-04@mail.ru)
-* 🧠  Reinforce my .NET, Angular skills | Working at ERG-BTS as Software developer
-* 🐍  Have strong Python knowldege. Implemented several projects on different Python frameworks
+* ✉️  You can contact me at [gggrents@gmail.com](mailto:gggrents@gmail.com)
+* 🧠  Reinforce my Angular skills | Working at ERG-BTS as Software developer
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
